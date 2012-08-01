@@ -24,6 +24,6 @@ This plugin is licensed under the GNU GPL v2.
 
 == Project help
 
-If you need help you can contact the maintainer at the Bug Tracker. The bug tracker is located at https://github.com/tonymarschall/redmine_default_version/issues 
+If you need help you can contact the maintainer at the Bug Tracker. The bug tracker is located at https://github.com/benasher44/redmine_default_version/issues 
 
 
